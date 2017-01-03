@@ -4,6 +4,7 @@ permalink: /about/
 ---
 
 ![image](/images/profile_img.jpg)
+
 ### About me
 - [email](kaiser308@gmail.com)
 - [github](https://github.com/sehoi)
