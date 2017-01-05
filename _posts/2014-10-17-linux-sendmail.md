@@ -2,7 +2,7 @@
 layout: post
 title: "리눅스(centos) 서버에서 mail 보내기"
 date: 2014-10-17
-description:
+description: "리눅스(centos) 서버에서 bash shell을 이용하여 mail 명령으로 email 전송하는 방법에 대해서 정리한 글입니다."
 categories:
   - Server
 tags: [server, linux, centos, mail]
