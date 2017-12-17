@@ -10,7 +10,7 @@ permalink: /about/
 - [github](https://github.com/sehoi)
 - [twitter](https://twitter.com/sehoe)
 
-### Blog
-- URL: [https://github.com/sehoi](https://github.com/sehoi)
+### About blog
+- URL: [https://sehoi.github.io/](https://sehoi.github.io/)
 - hosting: [Github Pages](https://pages.github.com)
 - jekyll theme: [Kiko Plus Theme](https://aweekj.github.io/Kiko-plus)

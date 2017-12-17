@@ -2,10 +2,10 @@
 layout: post
 title: "시간 복잡도(Time-Complexity) 정리"
 date: 2014-03-03
-description:
+description: "시간 복잡도(Time-Complexity)의 분석(analysis) 및 함수(function) 종류에 대해서 정리한 글입니다."
 categories:
   - Etc
-tags: [etc, time-complexity, complexity, big-o]
+tags: [etc, time-complexity, complexity]
 comments: true
 share: true
 ---
@@ -45,7 +45,7 @@ share: true
   - 정의: 점근적 상한(Asymptotic Upper Bound)
   - g(n) ∈ O(f(n))
     - g(n)은 아무리 나빠도 f(n)보다 같거나 좋은 시간 복잡도를 가짐
-    - => 즉,  O(f(n))은 g(n)의 worst-case임
+    - => 즉, O(f(n))은 g(n)의 worst-case임
 <br />
 
 3. Ω 표기법
